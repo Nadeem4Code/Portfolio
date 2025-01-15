@@ -95,7 +95,7 @@ const Header = () => {
                 </MenuItem>
                 <MenuItem onClick={handleCloseNavMenu}>
                   <a
-                    href="https://drive.google.com/file/d/1eiA2wBjA6EH0o8FeoF9Ai2_nnFHO_xyS/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1-qlSm8qzvXrGjN_joenrvA7lEk5n8cgj/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="project"
@@ -143,7 +143,7 @@ const Header = () => {
                 About.
               </NavLink>
               <a
-                href="https://drive.google.com/file/d/1eiA2wBjA6EH0o8FeoF9Ai2_nnFHO_xyS/view?usp=sharing"
+                href="https://drive.google.com/file/d/1-qlSm8qzvXrGjN_joenrvA7lEk5n8cgj/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="project"
