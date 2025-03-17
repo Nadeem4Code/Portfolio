@@ -34,7 +34,7 @@ const Projects = () => {
     },
     {
       id: 3,
-      project: "Mosque Webste",
+      project: "Mosque Website",
       img: mosque,
       link: "https://jama-masjid.vercel.app/",
       description: `The Mosque Website is a comprehensive online platform designed to serve the Muslim community by providing essential services and information related to mosques. It aims to enhance the user's spiritual journey by offering convenient access to prayer times, mosque locations, events, and religious content, all through a user-friendly web interface.`,
